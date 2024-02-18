@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-public class MyJavaApp {
+public class Simpletest{
     
     // Method to greet the user
     public static void greetUser(String userName) {
